@@ -40,6 +40,7 @@ then create a file and use the "emoji.h" code
 
 
 LICENSE FOR EMOJICPP 
+
 MIT License
 
 Copyright (c) 2018 Shalitha Suranga
