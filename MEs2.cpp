@@ -1,4 +1,5 @@
 #include <iostream>
+#include "emoji.h"
 using namespace std;
 
 void decToBinary(int n)
