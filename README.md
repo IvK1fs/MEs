@@ -1,4 +1,6 @@
-to utilize the code use the emojis lib
+to utilize the code create a folder named emojis
+then create a file and use the "emojis.h" code
+
 
 
 
