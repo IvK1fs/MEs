@@ -1,3 +1,42 @@
+to utilize the code use the emojis lib
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 LICENSE FOR EMOJICPP 
 MIT License
 
