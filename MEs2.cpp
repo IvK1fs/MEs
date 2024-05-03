@@ -24,6 +24,7 @@ void decToBinary(int n)
 int main()
 {
     int n;
+    cout << "insira um número para converter";
   cin >> n;
     decToBinary(n);
     return 0;
